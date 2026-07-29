@@ -1,4 +1,4 @@
-# clai
+# CLAI
 
 A small command-line AI assistant powered by the [Claude API](https://www.anthropic.com).
 
